@@ -1,0 +1,121 @@
+operational_metro_stations:
+  - station_name: Airport Road
+    line: Line 1
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 8 June 2014
+  - station_name: Andheri
+    line: Line 1
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 8 June 2014
+    notes: Transfer station for Andheri railway station
+  - station_name: Asalpha
+    line: Line 1
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 8 June 2014
+  - station_name: Azad Nagar
+    line: Line 1
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 8 June 2014
+  - station_name: Aarey
+    line: Line 7
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 2 April 2022
+  - station_name: Anand Nagar (Dahisar)
+    line: Line 2
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 2 April 2022
+    notes: Also known as Upper Dahisar metro station
+  - station_name: Andheri (East)
+    line: Line 7
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 19 January 2023
+    notes: Also known as Gundavali metro station with Interchanging at Blue Line 1 on Western Express Highway
+  - station_name: Bandongri
+    line: Line 7
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 2 April 2022
+    notes: Also known as Akurli metro station
+  - station_name: Borivali Omkareshwar (National Park)
+    line: Line 7
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 2 April 2022
+    notes: Also known as Rashtriya Udyan metro station
+  - station_name: D.N. Nagar
+    line: Line 1, Line 2
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 8 June 2014
+  - station_name: Dahisar (East)
+    line: Line 9, Line 7, Line 2
+    layout: Elevated
+    platform_layout: Side and Island
+    status: Operational from 2 April 2022
+  - station_name: Don Bosco (Borivali)
+    line: Line 2
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 2 April 2022
+    notes: Also known as Borivali West metro station
+  - station_name: Ekta Nagar
+    line: Line 2
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 2 April 2022
+    notes: Also known as Mahavir Nagar Kandivali (West) metro station
+  - station_name: Jagruti Nagar
+    line: Line 1
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 8 June 2014
+  - station_name: Chakala (J B Nagar)
+    line: Line 1
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 8 June 2014
+  - station_name: Charkop
+    line: Line 2
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 19 January 2023
+    notes: Also called as Valnai metro station
+  - station_name: Ghatkopar
+    line: Line 1
+    layout: Elevated
+    platform_layout: Island
+    status: Operational from 8 June 2014
+    notes: Transfer station for Ghatkopar railway station
+  - station_name: Girgaon
+    line: Line 3
+    layout: Underground
+    platform_layout: Island
+    status: Under construction
+  - station_name: Goregaon (West)
+    line: Line 2
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 19 January 2023
+  - station_name: Guru Tegh Bahadur Nagar
+    line: Line 1
+    layout: Elevated
+    platform_layout: Side
+    status: Operational from 8 June 2014
+  - station_name: Hiranandani Estate
+    line: Line 4
+    layout: Elevated
+    platform_layout: Side
+    status: Under construction
+  - station_name: Hiranandani Gardens
+    line: Line 1
+    layout: Elevated
+    platform_layout
+
+
